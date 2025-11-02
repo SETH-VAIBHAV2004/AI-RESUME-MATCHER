@@ -158,7 +158,7 @@ user_satisfaction = 4.7/5.0
 ### ⚡ **One-Command Setup**
 ```bash
 # Clone and setup in one go
-git clone https://github.com/yourusername/resume-matcher.git
+git clone https://github.com/SETH-VAIBHAV2004/AI-RESUME-MATCHER
 cd resume-matcher && pip install -r requirements.txt && python setup.py
 ```
 
@@ -199,7 +199,7 @@ python test_system.py  # Run comprehensive system tests
 
 #### 1️⃣ **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/resume-matcher.git
+git clone https://github.com/SETH-VAIBHAV2004/AI-RESUME-MATCHER
 cd resume-matcher
 ```
 
@@ -611,7 +611,7 @@ We welcome contributions from the community! Here's how you can help:
 ### 📋 **Development Setup**
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/resume-matcher.git
+git clone https://github.com/SETH-VAIBHAV2004/AI-RESUME-MATCHER
 cd resume-matcher
 
 # Install development dependencies
@@ -696,10 +696,10 @@ copies or substantial portions of the Software.
 <div align="center">
 
 ### 📈 **Project Stats**
-![GitHub stars](https://img.shields.io/github/stars/yourusername/resume-matcher?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/resume-matcher?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/resume-matcher)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/resume-matcher)
+![GitHub stars](https://img.shields.io/github/stars/SETH-VAIBHAV2004/resume-matcher?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SETH-VAIBHAV2004/resume-matcher?style=social)
+![GitHub issues](https://img.shields.io/github/issues/SETH-VAIBHAV2004/resume-matcher)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/SETH-VAIBHAV2004/resume-matcher)
 
 ### 🎯 **Performance Metrics**
 ![Accuracy](https://img.shields.io/badge/Accuracy-86%25-brightgreen)
@@ -735,14 +735,14 @@ copies or substantial portions of the Software.
 ### 🚀 **Get Started in 60 Seconds**
 
 ```bash
-git clone https://github.com/yourusername/resume-matcher.git
+git clone https://github.com/SETH-VAIBHAV2004/AI-RESUME-MATCHER
 cd resume-matcher && pip install -r requirements.txt
 python main.py --web
 ```
 
 ### 🌟 **Join Our Community**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/SETH-VAIBHAV2004)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/resumematcher)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/company/resumematcher)
 [![Discord](https://img.shields.io/badge/Discord-Join-purple?logo=discord)](https://discord.gg/resumematcher)
