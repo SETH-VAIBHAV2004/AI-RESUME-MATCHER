@@ -696,10 +696,10 @@ copies or substantial portions of the Software.
 <div align="center">
 
 ### 📈 **Project Stats**
-![GitHub stars](https://img.shields.io/github/stars/SETH-VAIBHAV2004/resume-matcher?style=social)
-![GitHub forks](https://img.shields.io/github/forks/SETH-VAIBHAV2004/resume-matcher?style=social)
-![GitHub issues](https://img.shields.io/github/issues/SETH-VAIBHAV2004/resume-matcher)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/SETH-VAIBHAV2004/resume-matcher)
+![GitHub stars](https://img.shields.io/github/stars/SETH-VAIBHAV2004/AI-RESUME-MATCHER?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SETH-VAIBHAV2004/AI-RESUME-MATCHER?style=social)
+![GitHub issues](https://img.shields.io/github/issues/SETH-VAIBHAV2004/AI-RESUME-MATCHER)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/SETH-VAIBHAV2004/AI-RESUME-MATCHER)
 
 ### 🎯 **Performance Metrics**
 ![Accuracy](https://img.shields.io/badge/Accuracy-86%25-brightgreen)
