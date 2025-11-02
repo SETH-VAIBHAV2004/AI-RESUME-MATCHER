@@ -1,0 +1,49 @@
+Senior Full-Stack Developer Position
+
+COMPANY: InnovateTech Solutions
+LOCATION: Remote/Hybrid
+SALARY: $120,000 - $150,000
+
+JOB DESCRIPTION
+We are seeking a talented Senior Full-Stack Developer to join our growing engineering team. The ideal candidate will have strong experience in modern web technologies and a passion for building scalable, user-friendly applications.
+
+REQUIRED SKILLS
+• 5+ years of experience in full-stack development
+• Proficiency in JavaScript, TypeScript, and Python
+• Strong experience with React, Vue.js, or Angular
+• Backend development with Node.js, Express, or Django
+• Database design and optimization (PostgreSQL, MySQL)
+• RESTful API development and integration
+• Version control with Git and collaborative development
+• Cloud platforms experience (AWS, Azure, or GCP)
+• Container technologies (Docker, Kubernetes)
+
+PREFERRED QUALIFICATIONS
+• Experience with microservices architecture
+• Knowledge of machine learning and data science
+• Familiarity with DevOps practices and CI/CD pipelines
+• Experience with testing frameworks (Jest, Cypress)
+• Understanding of security best practices
+• Agile/Scrum methodology experience
+
+RESPONSIBILITIES
+• Design and develop scalable web applications
+• Collaborate with cross-functional teams including designers and product managers
+• Write clean, maintainable, and well-documented code
+• Participate in code reviews and technical discussions
+• Mentor junior developers and contribute to team growth
+• Stay updated with latest technology trends and best practices
+
+SOFT SKILLS REQUIRED
+• Strong problem-solving and analytical thinking
+• Excellent communication and interpersonal skills
+• Leadership capabilities and team collaboration
+• Adaptability and willingness to learn new technologies
+• Time management and ability to work in fast-paced environment
+
+BENEFITS
+• Competitive salary and equity package
+• Health, dental, and vision insurance
+• Flexible working hours and remote work options
+• Professional development budget
+• Modern tech stack and tools
